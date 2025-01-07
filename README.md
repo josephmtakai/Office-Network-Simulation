@@ -49,6 +49,8 @@ This simulation features:
 
 Below are the configurations for each major device in the network.  
 
+Office Network Simulation![OFFICE NETWORK SIMULATION](https://github.com/user-attachments/assets/fa3b5c69-b492-42cc-b87d-73e9dcf2d3fb)
+
 ### **1. Router (Cisco 2911)**
 #### VLAN Sub-Interfaces for Inter-VLAN Routing:
 ```bash
@@ -152,8 +154,6 @@ network 192.168.40.0 255.255.255.0
 default-router 192.168.40.1
 dns-server 8.8.8.8
 exit
-
-SCREENSHOT: Office Network Simulation![OFFICE NETWORK SIMULATION](https://github.com/user-attachments/assets/fa3b5c69-b492-42cc-b87d-73e9dcf2d3fb)
 
 
 Wireless Access Point
