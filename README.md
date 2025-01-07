@@ -153,6 +153,7 @@ default-router 192.168.40.1
 dns-server 8.8.8.8
 exit
 
+SCREENSHOT: Office Network Simulation![OFFICE NETWORK SIMULATION](https://github.com/user-attachments/assets/fa3b5c69-b492-42cc-b87d-73e9dcf2d3fb)
 
 
 Wireless Access Point
